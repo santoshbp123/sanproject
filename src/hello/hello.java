@@ -12,7 +12,8 @@ public class hello {
 		System.out.println("sc");
 		System.out.println("sd");
 		
-		
-	}
+		System.out.println("s3");
+		System.out.println("st");
+    }
 
 }
