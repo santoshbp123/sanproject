@@ -7,6 +7,12 @@ public class hello {
 		
 		System.out.println("sa");
 		System.out.println("sb");
+		
+		
+		System.out.println("sc");
+		System.out.println("sd");
+		
+		
 	}
 
 }
