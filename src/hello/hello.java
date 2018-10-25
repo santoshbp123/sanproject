@@ -14,6 +14,14 @@ public class hello {
 		
 		System.out.println("s3");
 		System.out.println("st");
+		
+		System.out.println("123");
+		System.out.println("456");
+		
+		System.out.println("678");
+		System.out.println("910");
+		
+		
     }
 
 }
