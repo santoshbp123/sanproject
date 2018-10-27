@@ -14,22 +14,6 @@ public class hello {
 		
 		System.out.println("eeee");
 		System.out.println("rrr");
-		
-		
-		
-		System.out.println("sa");
-		System.out.println("sb");
-		
-		
-		System.out.println("sc");
-		System.out.println("sd");
-		
-		System.out.println("s3");
-		System.out.println("st");
-		
-		
-		System.out.println("eeee");
-		System.out.println("rrr");
     }
 
 }
