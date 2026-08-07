@@ -19,6 +19,7 @@ public class hello {
 		System.out.println("ggggKannadaAAA");
 		System.out.println("hhhHindiBBBB");
 		System.out.println("iiiiiSocialCCCC");
+		System.out.println("kkkkkiiiiiSocialCCCC");
 
     }
 
