@@ -6,9 +6,7 @@ public class hello {
 		// TODO Auto-generated method stub
 
 
-	    System.out.println("INDIA");
-		System.out.println("CHINA");
-		System.out.println("KOREA");
+	    System.out.println("India");
 
 		System.out.println("Kannada");
 		System.out.println("Hindi");
